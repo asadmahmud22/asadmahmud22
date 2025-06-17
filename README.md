@@ -34,7 +34,7 @@ I'm a **fast learner**, **adaptive thinker**, and a team player who values colla
 
 ### 🎨 Skills - UI/UX Design
 
-![Design Tools](https://skillicons.dev/icons?perline=12&i=figma,framer)
+![Design Tools](https://skillicons.dev/icons?perline=12&i=framer,figma)
 
 ---
 
