@@ -1,4 +1,4 @@
-<!-- Header -->
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/3e84f84d-a882-45d4-b82c-c223f808f02f" /><!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20As'ad%20Mahmud%20Akram&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Frontend%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
 ### 👋 About Me
@@ -34,7 +34,7 @@ I'm a **fast learner**, **adaptive thinker**, and a team player who values colla
 
 ### 🎨 Skills - UI/UX Design
 
-![Design Tools](https://skillicons.dev/icons?perline=12&i=framer,figma)
+![Design Tools](https://skillicons.dev/icons?perline=12&i=figma,framer)
 
 ---
 
