@@ -28,7 +28,7 @@ I'm a **fast learner**, **adaptive thinker**, and a team player who values colla
 
 ### 🛠 Skills - Programming
 
-![Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,react,vite,next,nodejs,php,laravel,kotlin,mysql,firebase)
+![Skills](https://skillicons.dev/icons?perline=12&i=html,css,tailwind,js,react,vite,next,nodejs,php,java,kotlin,mysql,sqlite,firebase)
 
 ---
 
