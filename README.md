@@ -60,7 +60,10 @@ Check out my personal website:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadmahmud22&theme=react&show_icons=true)
   
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asadmahmud22&theme=react&card_width=470)
+
 
 ---
 
