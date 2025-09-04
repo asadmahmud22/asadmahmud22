@@ -3,7 +3,7 @@
 
 ### 👋 About Me
 
-As'ad Mahmud Akram, a 4th-semester Diploma student in the Computer Technology Study Program at Indonesia Digital Technology University.  
+As'ad Mahmud Akram, a 5th-semester Diploma student in the Computer Technology Study Program at Indonesia Digital Technology University.  
 I have experience in various campus organization activities, supported by strong teamwork and communication skills.
 
 I’m passionate about frontend development and UI/UX design, with hands-on experience in multiple independent projects and trainings.
