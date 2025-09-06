@@ -17,7 +17,7 @@ I'm a **fast learner**, **adaptive thinker**, and a team player who values colla
 ## 🌐 My Portfolio
 
 Check out my personal website:  
-🌍 [https://portofolio-asad-mahmud-akram.vercel.app](https://asadmahmudakram.vercel.app/)
+🌍 [https://asadmahmudakram.vercel.app](https://asadmahmudakram.vercel.app/)
 
 ---
 
